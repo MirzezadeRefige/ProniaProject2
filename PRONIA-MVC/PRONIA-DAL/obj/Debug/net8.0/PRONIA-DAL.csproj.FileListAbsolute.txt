@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\bin\Debug\net8.0\PRONIA-DAL.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\bin\Debug\net8.0\PRONIA-DAL.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\bin\Debug\net8.0\PRONIA-DAL.dll
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\bin\Debug\net8.0\PRONIA-DAL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\obj\Debug\net8.0\PRONIA-DAL.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\obj\Debug\net8.0\PRONIA-DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\obj\Debug\net8.0\PRONIA-DAL.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\obj\Debug\net8.0\PRONIA-DAL.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\obj\Debug\net8.0\PRONIA-DAL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\obj\Debug\net8.0\PRONIA-DAL.dll
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\obj\Debug\net8.0\refint\PRONIA-DAL.dll
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\obj\Debug\net8.0\PRONIA-DAL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\obj\Debug\net8.0\PRONIA-DAL.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\PRONIA-MVC\PRONIA-DAL\obj\Debug\net8.0\ref\PRONIA-DAL.dll

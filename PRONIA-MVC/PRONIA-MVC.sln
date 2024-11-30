@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRONIA-MVC", "PRONIA-MVC\PRONIA-MVC.csproj", "{AB17B39D-3F7D-4BC2-B496-57559C1721F5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{64A2BFE1-DC59-4377-9EA8-E8FAABCCB9F1} = {64A2BFE1-DC59-4377-9EA8-E8FAABCCB9F1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRONIA-DAL", "PRONIA-DAL\PRONIA-DAL.csproj", "{64A2BFE1-DC59-4377-9EA8-E8FAABCCB9F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRONIA-BL", "PRONIA-BL\PRONIA-BL.csproj", "{C0842342-DE6C-4A92-A9A4-A15E218A2E93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB17B39D-3F7D-4BC2-B496-57559C1721F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB17B39D-3F7D-4BC2-B496-57559C1721F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB17B39D-3F7D-4BC2-B496-57559C1721F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB17B39D-3F7D-4BC2-B496-57559C1721F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A2BFE1-DC59-4377-9EA8-E8FAABCCB9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A2BFE1-DC59-4377-9EA8-E8FAABCCB9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A2BFE1-DC59-4377-9EA8-E8FAABCCB9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A2BFE1-DC59-4377-9EA8-E8FAABCCB9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0842342-DE6C-4A92-A9A4-A15E218A2E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0842342-DE6C-4A92-A9A4-A15E218A2E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0842342-DE6C-4A92-A9A4-A15E218A2E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0842342-DE6C-4A92-A9A4-A15E218A2E93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF21060E-CBF8-46BD-AEC5-416F8CFFBBD8}
+	EndGlobalSection
+EndGlobal
