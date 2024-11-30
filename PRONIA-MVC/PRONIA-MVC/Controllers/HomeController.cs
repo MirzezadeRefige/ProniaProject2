@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using PRONIA_BL.Services.Abstractions;
 using PRONIA_DAL.Contexts;
 using PRONIA_DAL.Models;
 
@@ -6,19 +7,16 @@ namespace PRONIA_MVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ProniaDbContext _proniaDbContext;
+        private readonly ISliderItemService _sliderItemService;
 
-        public HomeController(ProniaDbContext proniaDbContext)
+        public HomeController(ISliderItemService sliderItemService)
         {
-            _proniaDbContext = proniaDbContext;
+            _sliderItemService = sliderItemService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            List<SliderItem> sliderItems = _proniaDbContext.SliderItesms.ToList();
-
-
-
+            List<SliderItem> sliderItems = await _sliderItemService.GetAllAsync();
             return View(sliderItems);
         }
     }

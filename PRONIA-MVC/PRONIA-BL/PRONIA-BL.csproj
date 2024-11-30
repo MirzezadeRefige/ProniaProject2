@@ -16,4 +16,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PRONIA-DAL\PRONIA-DAL.csproj" />
+  </ItemGroup>
+
 </Project>

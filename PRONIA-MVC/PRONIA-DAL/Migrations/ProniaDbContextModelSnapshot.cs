@@ -59,7 +59,7 @@ namespace PRONIA_DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("SliderItesms");
+                    b.ToTable("SliderItem");
                 });
 #pragma warning restore 612, 618
         }
