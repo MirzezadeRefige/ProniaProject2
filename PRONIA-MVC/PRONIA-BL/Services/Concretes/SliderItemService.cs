@@ -13,22 +13,17 @@ namespace PRONIA_BL.Services.Concretes
         {
             _context = context;
         }
-
-       
-
-
-
         public async Task<List<SliderItem>> GetAllAsync()
         {
             List<SliderItem> sliderItems = await _context.SliderItem.ToListAsync();
             return sliderItems;
         }
-
-
-
         public async Task<SliderItem> GetByIdAsync(int id)
         {
             SliderItem sliderItem = await _context.SliderItem.FirstOrDefaultAsync(x => x.Id == id);
+            if (sliderItem == null) {
+                throw new Exception("not found.");
+                    }
             return sliderItem;
 
         }
@@ -65,18 +60,34 @@ namespace PRONIA_BL.Services.Concretes
 
             await _context.SaveChangesAsync();
         }
-
-
-        public async  Task CreateSliderItemAsync(SliderItem sliderItem)
+        public async Task CreateSliderItemAsync(SliderItem sliderItem)
         {
             await _context.SliderItem.AddAsync(sliderItem);
-            await _context.SaveChangesAsync();
-        }
-
-       
+            int row = await _context.SaveChangesAsync();
+            if (row != 1) 
+            {
+                throw new Exception("nese sehvdir");
+            }
+               
+        }      
        public async Task UpdateSliderItemAsync(int id, SliderItem sliderItem)
         {
-            throw new NotImplementedException();
+            if (id != sliderItem.Id) 
+            {
+                throw new Exception("bu id'e uygun sliderItem tapilamdi");
+            }
+            SliderItem? baseSliderItem = await _context.SliderItem.AsNoTracking().SingleOrDefaultAsync(x => x.Id == id);
+            if (baseSliderItem == null)
+            {
+                throw new Exception("bu id'e uygun sliderItem tapilamdi.");
+            }
+            baseSliderItem.Title = sliderItem.Title;
+            baseSliderItem.ShortDescription = sliderItem.ShortDescription;
+            baseSliderItem.Offer = sliderItem.Offer;
+            baseSliderItem.LastModifiedDate= sliderItem.LastModifiedDate;
+
+            _context.SliderItem.Update(sliderItem);
+            await _context.SaveChangesAsync();
         }
     }
 }

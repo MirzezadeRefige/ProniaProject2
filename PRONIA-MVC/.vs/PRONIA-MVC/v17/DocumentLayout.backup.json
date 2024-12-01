@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\areas\\proniaadmin\\controllers\\slideritemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\areas\\proniaadmin\\controllers\\slideritemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0842342-DE6C-4A92-A9A4-A15E218A2E93}|PRONIA-BL\\PRONIA-BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-bl\\services\\concretes\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0842342-DE6C-4A92-A9A4-A15E218A2E93}|PRONIA-BL\\PRONIA-BL.csproj|solutionrelative:pronia-bl\\services\\concretes\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0842342-DE6C-4A92-A9A4-A15E218A2E93}|PRONIA-BL\\PRONIA-BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-bl\\services\\abstractions\\islideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0842342-DE6C-4A92-A9A4-A15E218A2E93}|PRONIA-BL\\PRONIA-BL.csproj|solutionrelative:pronia-bl\\services\\abstractions\\islideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\areas\\proniaadmin\\views\\slideritem\\softdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\areas\\proniaadmin\\views\\slideritem\\softdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\areas\\proniaadmin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\areas\\proniaadmin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\areas\\proniaadmin\\views\\slideritem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\areas\\proniaadmin\\views\\slideritem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\areas\\proniaadmin\\views\\slideritem\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\areas\\proniaadmin\\views\\slideritem\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\areas\\proniaadmin\\views\\slideritem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\areas\\proniaadmin\\views\\slideritem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\areas\\proniaadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\areas\\proniaadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\areas\\proniaadmin\\views\\slideritem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\areas\\proniaadmin\\views\\slideritem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\proniaproject2\\pronia-mvc\\pronia-mvc\\areas\\proniaadmin\\viewmodels\\slideritem\\slideritemcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17B39D-3F7D-4BC2-B496-57559C1721F5}|PRONIA-MVC\\PRONIA-MVC.csproj|solutionrelative:pronia-mvc\\areas\\proniaadmin\\viewmodels\\slideritem\\slideritemcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +50,97 @@
       "DocumentGroups": [
         {
           "DockedHeight": 18,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PRONIA-MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PRONIA-MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\Info.cshtml",
+              "RelativeDocumentMoniker": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\Info.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\Info.cshtml",
+              "RelativeToolTip": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\Info.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T18:16:19.858Z",
+              "WhenOpened": "2024-12-01T20:01:09.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ISliderItemService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-BL\\Services\\Abstractions\\ISliderItemService.cs",
-              "RelativeDocumentMoniker": "PRONIA-BL\\Services\\Abstractions\\ISliderItemService.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-BL\\Services\\Abstractions\\ISliderItemService.cs",
-              "RelativeToolTip": "PRONIA-BL\\Services\\Abstractions\\ISliderItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Title": "softdelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\softdelete.cshtml",
+              "RelativeDocumentMoniker": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\softdelete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\softdelete.cshtml",
+              "RelativeToolTip": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\softdelete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T19:48:25.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PRONIA-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PRONIA-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAKkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T19:34:24.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T19:24:42.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\Index.cshtml",
+              "RelativeToolTip": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T10:20:03.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\update.cshtml",
+              "RelativeDocumentMoniker": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\update.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\update.cshtml",
+              "RelativeToolTip": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T10:16:05.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Controllers\\SliderItemController.cs",
+              "RelativeDocumentMoniker": "PRONIA-MVC\\Areas\\ProniaAdmin\\Controllers\\SliderItemController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Controllers\\SliderItemController.cs",
+              "RelativeToolTip": "PRONIA-MVC\\Areas\\ProniaAdmin\\Controllers\\SliderItemController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwDwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:56:42.859Z",
+              "WhenOpened": "2024-12-01T10:03:19.626Z",
               "EditorCaption": ""
             },
             {
@@ -62,22 +151,34 @@
               "RelativeDocumentMoniker": "PRONIA-BL\\Services\\Concretes\\SliderItemService.cs",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-BL\\Services\\Concretes\\SliderItemService.cs",
               "RelativeToolTip": "PRONIA-BL\\Services\\Concretes\\SliderItemService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwDEAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:56:19.336Z",
+              "WhenOpened": "2024-12-01T10:03:06.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "PRONIA-MVC\\Areas\\ProniaAdmin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "PRONIA-MVC\\Areas\\ProniaAdmin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\create.cshtml",
+              "RelativeDocumentMoniker": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\create.cshtml",
+              "RelativeToolTip": "PRONIA-MVC\\Areas\\ProniaAdmin\\Views\\SliderItem\\create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T10:03:41.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderItemCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\ViewModels\\SliderItem\\SliderItemCreateVM.cs",
+              "RelativeDocumentMoniker": "PRONIA-MVC\\Areas\\ProniaAdmin\\ViewModels\\SliderItem\\SliderItemCreateVM.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\ProniaProject2\\PRONIA-MVC\\PRONIA-MVC\\Areas\\ProniaAdmin\\ViewModels\\SliderItem\\SliderItemCreateVM.cs",
+              "RelativeToolTip": "PRONIA-MVC\\Areas\\ProniaAdmin\\ViewModels\\SliderItem\\SliderItemCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:56:07.69Z"
+              "WhenOpened": "2024-12-01T10:19:56.378Z"
             }
           ]
         }
